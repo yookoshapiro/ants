@@ -1,0 +1,10 @@
+{
+  "name": "yookoshapiro/ants",
+  "license": "MIT",
+  "type": "project",
+  "require": {
+    "components/jquery": "2.*",
+    "components/underscore": "1.7.*",
+    "twbs/bootstrap": "3.*"
+  }
+}
